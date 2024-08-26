@@ -1,3 +1,4 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Dulanga Manusha</h1>
 <h3 align="center">Exploring Computer Science | Passionate About Web Development and Coding</h3>
 
@@ -29,8 +30,8 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulanga-manusha&show_icons=true&locale=en&layout=compact" alt="dulanga-manusha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulanga-Manusha&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="dulanga-manusha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dulanga-manusha&show_icons=true&locale=en" alt="dulanga-manusha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dulanga-Manusha&theme=dark&show_icons=true&hide_border=false&count_private=true" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulanga-manusha&" alt="dulanga-manusha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dulanga-Manusha&theme=dark&hide_border=false" alt="dulanga-manusha" /></p>
