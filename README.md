@@ -6,6 +6,8 @@
 
 ---
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 167px></picture>
+
 - 👯 I’m looking to collaborate on **full stack development projects**
   
 - 🌱 I’m currently learning **Mobile app development**
@@ -32,6 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulanga-Manusha&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="dulanga-manusha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dulanga-Manusha&theme=dark&show_icons=true&hide_border=false&count_private=true" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dulanga-Manusha&theme=dark&hide_border=false" alt="dulanga-manusha" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dulanga-Manusha&theme=dark&show_icons=true&hide_border=false&count_private=true" /></p>
