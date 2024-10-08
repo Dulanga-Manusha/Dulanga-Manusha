@@ -22,7 +22,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/dulanga manusha" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="dulanga manusha" height="30" width="40" /></a>
 <a href="https://instagram.com/dulanga_manusha" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="dulanga_manusha" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dulangamanusha1" target="blank"><img align="center" src="https://github.com/Dulanga-Manusha/skill-icons/blob/main/icons/image.svg" alt="dulangamanusha1" height="33" width="33" /></a>
+<a href="https://www.hackerrank.com/profile/Dulanga_Manusha" target="blank"><img align="center" src="https://github.com/Dulanga-Manusha/skill-icons/blob/main/icons/image.svg" alt="dulangamanusha1" height="33" width="33" /></a>
 </p>
 
 ---
