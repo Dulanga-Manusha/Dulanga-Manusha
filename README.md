@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **full stack development projects**
   
-- 🌱 I’m currently learning **Mobile app development**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 📫 How to reach me **dulangamanusha@gmail.com**
 
